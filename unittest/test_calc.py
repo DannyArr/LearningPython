@@ -1,4 +1,6 @@
-#https://www.youtube.com/watch?v=6tNS--WetLI
+# Thanks to Corey Schafer
+# https://www.youtube.com/watch?v=6tNS--WetLI
+# https://github.com/CoreyMSchafer/code_snippets/tree/master/Python-Unit-Testing 
 
 import unittest
 import calc
