@@ -1,7 +1,7 @@
 # https://www.codingame.com/ide/puzzle/temperatures
 
 import unittest
-import temperatures
+import games.temperatures
 from collections import Counter
 
 # Simple test case

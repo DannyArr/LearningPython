@@ -1,9 +1,0 @@
-Unit testing: https://www.youtube.com/watch?v=6tNS--WetLI
-Context Managers: https://www.youtube.com/watch?v=-aKFBoZpiqA
-Unittest.mock.patch: https://www.youtube.com/watch?v=WFRljVPHrkE
-
-
-More advanced:
-First class functions: https://www.youtube.com/watch?v=kr0mpwqttM0
-Closures: https://www.youtube.com/watch?v=swU3c34d2NQ
-Decorators: https://www.youtube.com/watch?v=FsAPt_9Bf3U
