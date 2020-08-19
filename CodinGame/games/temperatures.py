@@ -1,3 +1,5 @@
+#! /usr/env/bin python3
+
 import sys
 import math
 from typing import List
