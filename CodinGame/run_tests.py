@@ -1,1 +1,0 @@
-python3 "/home/drdan/source/learning_python/CodinGame/tests/"

@@ -1,6 +1,6 @@
 # https://www.codingame.com/ide/puzzle/temperatures
 
-from .context import games
+from context import games
 import unittest
 from collections import Counter
 
